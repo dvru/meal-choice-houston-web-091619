@@ -1,7 +1,10 @@
-def meal_choice
+def meal_choice(x)
   meal_choice = "meat"
   
  
+ def say_hello(name="Ruby Programmer")
+  puts "Hello #{name}!"
+end
 
 
 
