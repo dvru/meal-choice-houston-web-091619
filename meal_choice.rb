@@ -1,9 +1,5 @@
-def meal_choice( )
-  meal_choice = "meat"
-  
- 
- def say_hello(name="Ruby Programmer")
-  puts "Hello #{name}!"
+def meal_choice(meal = "meat")
+  return meal
 end
 
 
